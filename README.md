@@ -11,3 +11,7 @@ docker run --rm -p 8501:8501 --name aves-app proyecto-aves
 Abrir la aplicación en el navegador:
 
 http://localhost:8501
+
+Repositorio GitHub del proyecto:
+
+https://github.com/Arubaro0/Proyecto-IA
